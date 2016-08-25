@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">In Picture  is the Smart Phone or iPhone?</string>
+    <string name="ans1">TelePhone</string>
+    <string name="ans2">iPhone</string>
+
+    <string name="question2">What is the device connect computer?</string>
+    <string name="ans21">Keybord</string>
+    <string name="ans22">Mouse</string>
+    <string name="ans23">Watch</string>
+    <string name="next">Next</string>
+
+    <string name="question3">Smart Phone based the System: </string>
+    <string name="ans31">Android?</string>
+    <string name="ans32">Windows?</string>
+
+    <string name="question4">Do you think in iPhone excute android app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="question5">iPhone can use in Windows System? Answer must input y/n.</string>
+    <string name="btn_main">Main Screen</string>
+    <string name="result">Success Number</string>
+</resources>
